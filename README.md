@@ -37,7 +37,8 @@
 
 <!-- Achievements -->
 ## 🏆 Achievements  
-- 🏅 **Amazon Future Engineer Scholar**  
+- 🏅 **QAE Intern At Amazon**
+- 🏅 **Amazon Future Engineer Scholar**
 - 🏅 **Reliance Foundation Scholar**  
 - 🎯 Solved **700+ problems on coding platforms**.
 
@@ -47,10 +48,10 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/palak-b22069287/">
-    <img src="https://img.shields.io/badge/LinkedIn-Palak%20Jindal-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Palak-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:palakjindal2912@gmail.com">
-    <img src="https://img.shields.io/badge/Email-palak@example.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-palakjindal2912@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Palak-Palak">
     <img src="https://img.shields.io/badge/GitHub-Palak--Palak-black?style=for-the-badge&logo=github">
